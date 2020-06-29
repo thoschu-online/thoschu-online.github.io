@@ -17,3 +17,6 @@ Han Solo sagt:
 
 > Ich habe da ein ganz mieses Gefühl...
 
+<img src="https://vignette.wikia.nocookie.net/jedipedia/images/e/e2/TFAHanSolo.png/revision/latest?cb=20171001200440&path-prefix=de" />
+
+
