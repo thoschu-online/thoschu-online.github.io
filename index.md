@@ -12,3 +12,8 @@ Han Solo, ursprünglich nur als Han bekannt, war ein Corellianer, der schon in j
 * Augenfarbe braun
 * Körpergröße 1,72 Meter
 * Besondere Merkmale: Narbe am Kinn
+
+Han Solo sagt:
+
+> Ich habe da ein ganz mieses Gefühl...
+
